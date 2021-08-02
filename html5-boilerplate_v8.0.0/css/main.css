@@ -619,6 +619,10 @@
     .features .features-item-description {
       width: 62%;
     }
+
+    .features i {
+      margin-bottom: 30px;
+    }
   
     /* Reviews */
     .reviews article {
@@ -664,7 +668,10 @@
     footer p {
         line-height: 1.285;
     }
-  
+    footer .social-icons {
+      width: 12.5em;
+      justify-content: space-between;
+    }
     footer .copyright {
       width: 100%;
     }
@@ -683,7 +690,9 @@
     .mission-content p {
       width: 45%;
     }
-  
+    .map figure {
+      padding-bottom: 45.5%;
+    }
     .contact-section .content-wrapper h2 {
       width: 80%;
     }
@@ -802,7 +811,9 @@
     .contact-content h4 {
       font-size: 1.875em;
     }
-  
+    .map figure {
+      padding-bottom: 37.5%;
+    }
     /* ==========================================================================
     FAQ Page
     ========================================================================== */
